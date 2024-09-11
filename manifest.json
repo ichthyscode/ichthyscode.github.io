@@ -1,6 +1,6 @@
 {
-    "name": "boardgame",
-    "short_name": "boardgame",
+    "name": "read_kids",
+    "short_name": "read_kids",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
