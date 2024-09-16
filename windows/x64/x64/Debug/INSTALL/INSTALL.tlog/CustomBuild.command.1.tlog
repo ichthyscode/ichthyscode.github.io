@@ -1,0 +1,10 @@
+^C:\USERS\SLIM2\ONEDRIVE\DESKTOP\PROJECTS\BALL_TAPGAME\BALL_TAPGAME\BUILD\WINDOWS\X64\CMAKEFILES\62FE024207C63EDC3F6ABD64C5165B64\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

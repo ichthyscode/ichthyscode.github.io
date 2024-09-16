@@ -1,6 +1,6 @@
 {
-    "name": "read_kids",
-    "short_name": "read_kids",
+    "name": "ball_tapgame",
+    "short_name": "ball_tapgame",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

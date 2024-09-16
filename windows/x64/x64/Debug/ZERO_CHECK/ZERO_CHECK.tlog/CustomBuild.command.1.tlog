@@ -1,0 +1,10 @@
+^C:\USERS\SLIM2\ONEDRIVE\DESKTOP\PROJECTS\BALL_TAPGAME\BALL_TAPGAME\BUILD\WINDOWS\X64\CMAKEFILES\62FE024207C63EDC3F6ABD64C5165B64\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/slim2/OneDrive/Desktop/Projects/ball_tapgame/ball_tapgame/windows -BC:/Users/slim2/OneDrive/Desktop/Projects/ball_tapgame/ball_tapgame/build/windows/x64 --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/slim2/OneDrive/Desktop/Projects/ball_tapgame/ball_tapgame/build/windows/x64/ball_tapgame.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
