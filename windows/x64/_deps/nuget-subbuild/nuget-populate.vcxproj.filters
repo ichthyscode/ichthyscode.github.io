@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\slim2\OneDrive\Desktop\Projects\ball_tapgame\ball_tapgame\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\b257f641858ec355266d95c49e86e079\nuget-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\slim2\OneDrive\Desktop\Projects\ball_tapgame\ball_tapgame\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\b257f641858ec355266d95c49e86e079\nuget-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\slim2\OneDrive\Desktop\Projects\ball_tapgame\ball_tapgame\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\b257f641858ec355266d95c49e86e079\nuget-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\slim2\OneDrive\Desktop\Projects\ball_tapgame\ball_tapgame\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\b257f641858ec355266d95c49e86e079\nuget-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\slim2\OneDrive\Desktop\Projects\ball_tapgame\ball_tapgame\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\b257f641858ec355266d95c49e86e079\nuget-populate-copyfile.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\slim2\OneDrive\Desktop\Projects\ball_tapgame\ball_tapgame\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\b257f641858ec355266d95c49e86e079\nuget-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\slim2\OneDrive\Desktop\Projects\ball_tapgame\ball_tapgame\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\b257f641858ec355266d95c49e86e079\nuget-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\slim2\OneDrive\Desktop\Projects\ball_tapgame\ball_tapgame\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\b257f641858ec355266d95c49e86e079\nuget-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\slim2\OneDrive\Desktop\Projects\ball_tapgame\ball_tapgame\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\b257f641858ec355266d95c49e86e079\nuget-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\slim2\OneDrive\Desktop\Projects\ball_tapgame\ball_tapgame\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\ac027509dc3644b5b4c45838c5baf2fe\nuget-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\slim2\OneDrive\Desktop\Projects\ball_tapgame\ball_tapgame\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\eac64492a96ec2cc0a4f63be519fd33a\nuget-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\slim2\OneDrive\Desktop\Projects\ball_tapgame\ball_tapgame\build\windows\x64\_deps\nuget-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\slim2\OneDrive\Desktop\Projects\ball_tapgame\ball_tapgame\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\nuget-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{68C42171-E85C-31E2-BF09-49AA5CF97E2C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

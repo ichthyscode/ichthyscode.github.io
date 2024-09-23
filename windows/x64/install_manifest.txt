@@ -1,7 +1,9 @@
 C:/Users/slim2/OneDrive/Desktop/Projects/ball_tapgame/ball_tapgame/build/windows/x64/runner/Debug/data/icudtl.dat
 C:/Users/slim2/OneDrive/Desktop/Projects/ball_tapgame/ball_tapgame/build/windows/x64/runner/Debug/flutter_windows.dll
+C:/Users/slim2/OneDrive/Desktop/Projects/ball_tapgame/ball_tapgame/build/windows/x64/runner/Debug/audioplayers_windows_plugin.dll
 C:/Users/slim2/OneDrive/Desktop/Projects/ball_tapgame/ball_tapgame/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.bin
 C:/Users/slim2/OneDrive/Desktop/Projects/ball_tapgame/ball_tapgame/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/slim2/OneDrive/Desktop/Projects/ball_tapgame/ball_tapgame/build/windows/x64/runner/Debug/data/flutter_assets/assets/audio/sound1.mp3
 C:/Users/slim2/OneDrive/Desktop/Projects/ball_tapgame/ball_tapgame/build/windows/x64/runner/Debug/data/flutter_assets/assets/icon/tap_the_ball_icon.png
 C:/Users/slim2/OneDrive/Desktop/Projects/ball_tapgame/ball_tapgame/build/windows/x64/runner/Debug/data/flutter_assets/FontManifest.json
 C:/Users/slim2/OneDrive/Desktop/Projects/ball_tapgame/ball_tapgame/build/windows/x64/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf

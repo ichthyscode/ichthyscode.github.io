@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\slim2\OneDrive\Desktop\Projects\ball_tapgame\ball_tapgame\build\windows\x64\CMakeFiles\6a96a589f1d1a7967f584b282b91cfe6\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{2B4824D0-7DC8-31A0-999C-9A42251512BD}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

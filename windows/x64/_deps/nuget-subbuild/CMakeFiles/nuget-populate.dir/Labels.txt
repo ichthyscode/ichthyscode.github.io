@@ -1,0 +1,15 @@
+# Target labels
+ nuget-populate
+# Source files and their labels
+C:/Users/slim2/OneDrive/Desktop/Projects/ball_tapgame/ball_tapgame/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/nuget-populate
+C:/Users/slim2/OneDrive/Desktop/Projects/ball_tapgame/ball_tapgame/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/eac64492a96ec2cc0a4f63be519fd33a/nuget-populate.rule
+C:/Users/slim2/OneDrive/Desktop/Projects/ball_tapgame/ball_tapgame/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/ac027509dc3644b5b4c45838c5baf2fe/nuget-populate-complete.rule
+C:/Users/slim2/OneDrive/Desktop/Projects/ball_tapgame/ball_tapgame/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/b257f641858ec355266d95c49e86e079/nuget-populate-build.rule
+C:/Users/slim2/OneDrive/Desktop/Projects/ball_tapgame/ball_tapgame/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/b257f641858ec355266d95c49e86e079/nuget-populate-configure.rule
+C:/Users/slim2/OneDrive/Desktop/Projects/ball_tapgame/ball_tapgame/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/b257f641858ec355266d95c49e86e079/nuget-populate-copyfile.rule
+C:/Users/slim2/OneDrive/Desktop/Projects/ball_tapgame/ball_tapgame/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/b257f641858ec355266d95c49e86e079/nuget-populate-download.rule
+C:/Users/slim2/OneDrive/Desktop/Projects/ball_tapgame/ball_tapgame/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/b257f641858ec355266d95c49e86e079/nuget-populate-install.rule
+C:/Users/slim2/OneDrive/Desktop/Projects/ball_tapgame/ball_tapgame/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/b257f641858ec355266d95c49e86e079/nuget-populate-mkdir.rule
+C:/Users/slim2/OneDrive/Desktop/Projects/ball_tapgame/ball_tapgame/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/b257f641858ec355266d95c49e86e079/nuget-populate-patch.rule
+C:/Users/slim2/OneDrive/Desktop/Projects/ball_tapgame/ball_tapgame/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/b257f641858ec355266d95c49e86e079/nuget-populate-test.rule
+C:/Users/slim2/OneDrive/Desktop/Projects/ball_tapgame/ball_tapgame/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/b257f641858ec355266d95c49e86e079/nuget-populate-update.rule

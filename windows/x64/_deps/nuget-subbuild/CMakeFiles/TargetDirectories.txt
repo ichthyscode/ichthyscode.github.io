@@ -1,0 +1,3 @@
+C:/Users/slim2/OneDrive/Desktop/Projects/ball_tapgame/ball_tapgame/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/nuget-populate.dir
+C:/Users/slim2/OneDrive/Desktop/Projects/ball_tapgame/ball_tapgame/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/ALL_BUILD.dir
+C:/Users/slim2/OneDrive/Desktop/Projects/ball_tapgame/ball_tapgame/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/ZERO_CHECK.dir

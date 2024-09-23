@@ -8,3 +8,6 @@ C:/Users/slim2/OneDrive/Desktop/Projects/ball_tapgame/ball_tapgame/build/windows
 C:/Users/slim2/OneDrive/Desktop/Projects/ball_tapgame/ball_tapgame/build/windows/x64/runner/CMakeFiles/ball_tapgame.dir
 C:/Users/slim2/OneDrive/Desktop/Projects/ball_tapgame/ball_tapgame/build/windows/x64/runner/CMakeFiles/INSTALL.dir
 C:/Users/slim2/OneDrive/Desktop/Projects/ball_tapgame/ball_tapgame/build/windows/x64/runner/CMakeFiles/ALL_BUILD.dir
+C:/Users/slim2/OneDrive/Desktop/Projects/ball_tapgame/ball_tapgame/build/windows/x64/plugins/audioplayers_windows/CMakeFiles/audioplayers_windows_plugin.dir
+C:/Users/slim2/OneDrive/Desktop/Projects/ball_tapgame/ball_tapgame/build/windows/x64/plugins/audioplayers_windows/CMakeFiles/INSTALL.dir
+C:/Users/slim2/OneDrive/Desktop/Projects/ball_tapgame/ball_tapgame/build/windows/x64/plugins/audioplayers_windows/CMakeFiles/ALL_BUILD.dir
